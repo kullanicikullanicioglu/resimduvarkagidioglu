@@ -77,6 +77,13 @@
     "copyright":"Personal use only"
   },
   {
+    "name": "Black White",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Amoled/Martin_Ayunta-Black_White.png",
+    "author": "Martin Ayunta",
+    "collections": "Amoled",
+    "copyright":"Personal use only"
+  },
+  {
     "name": "Textura1",
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Amoled/Martin_Ayunta-Textura1.png",
     "author": "Martin Ayunta",
@@ -149,6 +156,13 @@
   {
     "name": "Blobs",
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Blobs/Decipher-Blobs.png",
+    "author": "Decipher",
+    "collections": "Blobs",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Blobs Again",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Blobs/Decipher-Blobs_Again.png",
     "author": "Decipher",
     "collections": "Blobs",
     "copyright":"Personal use only"
@@ -471,6 +485,20 @@
   {
     "name": "Doodle Again",
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Doodle/Decipher-Doodle_Again.png",
+    "author": "Decipher",
+    "collections": "Doodle",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Doodle Dark",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Doodle/Decipher-Doodle_Dark.png",
+    "author": "Decipher",
+    "collections": "Doodle",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Doodle Light",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Doodle/Decipher-Doodle_Light.png",
     "author": "Decipher",
     "collections": "Doodle",
     "copyright":"Personal use only"
@@ -1723,6 +1751,13 @@
   },
   {
     "name": "Pixel",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Pixel/Decipher-Pixel.png",
+    "author": "Decipher",
+    "collections": "Pixel",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Pixel",
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Pixel/Martin_Ayunta-Pixel.png",
     "author": "Martin Ayunta",
     "collections": "Pixel",
@@ -2128,6 +2163,13 @@
     "copyright":"Personal use only"
   },
   {
+    "name": "Alone",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Shapes/Decipher-Alone.png",
+    "author": "Decipher",
+    "collections": "Shapes",
+    "copyright":"Personal use only"
+  },
+  {
     "name": "Realm",
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Shapes/Decipher-Realm.png",
     "author": "Decipher",
@@ -2193,6 +2235,13 @@
   {
     "name": "Forma4",
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Shapes/Martin_Ayunta-Forma4.png",
+    "author": "Martin Ayunta",
+    "collections": "Shapes",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Red X",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Shapes/Martin_Ayunta-Red_X.png",
     "author": "Martin Ayunta",
     "collections": "Shapes",
     "copyright":"Personal use only"
@@ -2411,6 +2460,13 @@
     "name": "Stormy",
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Weather/Decipher-Stormy.png",
     "author": "Decipher",
+    "collections": "Weather",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Sun",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Weather/Martin_Ayunta-Sun.png",
+    "author": "Martin Ayunta",
     "collections": "Weather",
     "copyright":"Personal use only"
   }
