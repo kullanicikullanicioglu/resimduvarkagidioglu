@@ -140,6 +140,34 @@
     "copyright":"Personal use only"
   },
   {
+    "name": "Parrot 1",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Animals/Martin_Ayunta-Parrot_1.png",
+    "author": "Martin Ayunta",
+    "collections": "Animals",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Parrot 2",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Animals/Martin_Ayunta-Parrot_2.png",
+    "author": "Martin Ayunta",
+    "collections": "Animals",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Parrot 3",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Animals/Martin_Ayunta-Parrot_3.png",
+    "author": "Martin Ayunta",
+    "collections": "Animals",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Parrot 4",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Animals/Martin_Ayunta-Parrot_4.png",
+    "author": "Martin Ayunta",
+    "collections": "Animals",
+    "copyright":"Personal use only"
+  },
+  {
     "name": "Zebra",
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Animals/Martin_Ayunta-Zebra.png",
     "author": "Martin Ayunta",
@@ -721,6 +749,13 @@
     "copyright":"Personal use only"
   },
   {
+    "name": "Floral2",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Flowers/Decipher-Floral2.png",
+    "author": "Decipher",
+    "collections": "Flowers",
+    "copyright":"Personal use only"
+  },
+  {
     "name": "Flowers",
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Flowers/Decipher-Flowers.png",
     "author": "Decipher",
@@ -924,6 +959,27 @@
     "copyright":"Personal use only"
   },
   {
+    "name": "Fluency1",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Fluency/Decipher-Fluency1.png",
+    "author": "Decipher",
+    "collections": "Fluency",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Fluency/Decipher_Fluency2.png",
+    "author": "Decipher Fluency2.png",
+    "collections": "Fluency",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Fluency/Decipher_Fluency3.png",
+    "author": "Decipher Fluency3.png",
+    "collections": "Fluency",
+    "copyright":"Personal use only"
+  },
+  {
     "name": "Fluid",
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Fluid/Galahad_WPX-Fluid.png",
     "author": "Galahad WPX",
@@ -1092,6 +1148,20 @@
     "copyright":"Personal use only"
   },
   {
+    "name": "Blended",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Gradients/Decipher-Blended.png",
+    "author": "Decipher",
+    "collections": "Gradients",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Splits",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Gradients/Decipher-Splits.png",
+    "author": "Decipher",
+    "collections": "Gradients",
+    "copyright":"Personal use only"
+  },
+  {
     "name": "Ancient",
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Landscapes/Martin_Ayunta-Ancient.png",
     "author": "Martin Ayunta",
@@ -1257,6 +1327,34 @@
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Lowform/Martin_Ayunta-Lowform4.png",
     "author": "Martin Ayunta",
     "collections": "Lowform",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Material You1",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Material_You/Decipher-Material_You1.png",
+    "author": "Decipher",
+    "collections": "Material You",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Material You2",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Material_You/Decipher-Material_You2.png",
+    "author": "Decipher",
+    "collections": "Material You",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Material You3",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Material_You/Decipher-Material_You3.png",
+    "author": "Decipher",
+    "collections": "Material You",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Material You4",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Material_You/Decipher-Material_You4.png",
+    "author": "Decipher",
+    "collections": "Material You",
     "copyright":"Personal use only"
   },
   {
@@ -1918,6 +2016,55 @@
     "copyright":"Personal use only"
   },
   {
+    "name": "Earth",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Planets/Martin_Ayunta-Earth.png",
+    "author": "Martin Ayunta",
+    "collections": "Planets",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Jupiter",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Planets/Martin_Ayunta-Jupiter.png",
+    "author": "Martin Ayunta",
+    "collections": "Planets",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Mars",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Planets/Martin_Ayunta-Mars.png",
+    "author": "Martin Ayunta",
+    "collections": "Planets",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Mars2",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Planets/Martin_Ayunta-Mars2.png",
+    "author": "Martin Ayunta",
+    "collections": "Planets",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Moon",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Planets/Martin_Ayunta-Moon.png",
+    "author": "Martin Ayunta",
+    "collections": "Planets",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Neptune",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Planets/Martin_Ayunta-Neptune.png",
+    "author": "Martin Ayunta",
+    "collections": "Planets",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Venus",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Planets/Martin_Ayunta-Venus.png",
+    "author": "Martin Ayunta",
+    "collections": "Planets",
+    "copyright":"Personal use only"
+  },
+  {
     "name": "Pride",
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Pride/Martin_Ayunta-Pride.png",
     "author": "Martin Ayunta",
@@ -2468,6 +2615,27 @@
     "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Taken_By_Creators/Popleble-Spring.jpeg",
     "author": "Popleble",
     "collections": "Taken By Creators",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Vivid Colors",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Vivid_Colors/Martin_Ayunta-Vivid_Colors.png",
+    "author": "Martin Ayunta",
+    "collections": "Vivid Colors",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Vivid Colors2",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Vivid_Colors/Martin_Ayunta-Vivid_Colors2.png",
+    "author": "Martin Ayunta",
+    "collections": "Vivid Colors",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Vivid Colors3",
+    "url": "https://github.com/kullanicikullanicioglu/resimduvarkagidioglu/raw/main/wallpapers/Vivid_Colors/Martin_Ayunta-Vivid_Colors3.png",
+    "author": "Martin Ayunta",
+    "collections": "Vivid Colors",
     "copyright":"Personal use only"
   },
   {
